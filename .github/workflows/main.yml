@@ -21,7 +21,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman,breakout'
+       games: 'pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper'
           hide_month_labels: 'false'
 
       - name: push SVGs to output branch
