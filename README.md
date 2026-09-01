@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hello! I'm **Putu Bayu Satria Wangsa Bukian** 🚀, a passionate tech student 💻 and creative creator 🎨 based in Bali, Indonesia 🌴✨!<br><br>Currently studying **Software and Game Development (PPLG)** 🎓 at **SMK Negeri 2 Kuta Selatan** 🏫, I love bridging the gap between stunning design 🖌️ and solid engineering ⚙️! As the founder of **Bazzy Art Work** 🖼️, I specialize in UI/UX prototyping 📱, graphic design ✍️, and video editing 🎥.<br><br>On the technical side 💻, I build modern web applications using PHP 🐘, Laravel 🔴, and Node.js 🟩, while exploring the exciting world of Computer Vision 👁️🤖 (Python 🐍) and hardware prototyping 🔌⚡!<br><br>I am always eager to learn new technologies 📚, build awesome projects 🛠️, and collaborate with creative minds 🤝💡!
-<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js"></script>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bayuu_satir) 
@@ -24,21 +23,90 @@ Hello! I'm **Putu Bayu Satria Wangsa Bukian** 🚀, a passionate tech student �
 ## My Contribution Graph
 
 ## 🎮 My Contribution 
+## 🎮 Arcade Contribution Games
+
+### 👻 Pac-Man
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/pacman-contribution-graph-dark.svg"
-  >
-
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/pacman-contribution-graph-dark.svg">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/pacman-contribution-graph.svg"
-  >
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/pacman-contribution-graph.svg">
   <img
     alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/pacman-contribution-graph.svg"
-  >
+    src="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/pacman-contribution-graph.svg">
+</picture>
+
+### 🧱 Breakout
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/breakout-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/breakout-contribution-graph.svg">
+  <img
+    alt="Breakout contribution graph"
+    src="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/breakout-contribution-graph.svg">
+</picture>
+
+### 🚀 Galaga
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/galaga-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/galaga-contribution-graph.svg">
+  <img
+    alt="Galaga contribution graph"
+    src="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/galaga-contribution-graph.svg">
+</picture>
+
+### 🫧 Puzzle Bobble
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/puzzle-bobble-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/puzzle-bobble-contribution-graph.svg">
+  <img
+    alt="Puzzle Bobble contribution graph"
+    src="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/puzzle-bobble-contribution-graph.svg">
+</picture>
+
+### 💣 Bomberman
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/bomberman-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/bomberman-contribution-graph.svg">
+  <img
+    alt="Bomberman contribution graph"
+    src="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/bomberman-contribution-graph.svg">
+</picture>
+
+### 💠 Minesweeper
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/minesweeper-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/minesweeper-contribution-graph.svg">
+  <img
+    alt="Minesweeper contribution graph"
+    src="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/minesweeper-contribution-graph.svg">
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
