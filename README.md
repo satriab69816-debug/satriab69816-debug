@@ -23,7 +23,7 @@ Hello! I'm **Putu Bayu Satria Wangsa Bukian** 🚀, a passionate tech student �
 
 ## My Contribution Graph
 
-## 🎮 My Contribution Game
+## 🎮 My Contribution 
 
 <picture>
   <source
