@@ -23,11 +23,22 @@ Hello! I'm **Putu Bayu Satria Wangsa Bukian** 🚀, a passionate tech student �
 
 ## My Contribution Graph
 
-<!-- [game-name] -->
+## 🎮 My Contribution Game
+
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
-    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/pacman-contribution-graph-dark.svg"
+  >
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/pacman-contribution-graph.svg"
+  >
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/satriab69816-debug/satriab69816-debug/output/pacman-contribution-graph.svg"
+  >
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
